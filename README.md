@@ -5,11 +5,11 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=chaitanya7x&label=Profile%20views&color=green&style=flat" alt="chaitanya7x" /> 
+  <img src="https://komarev.com/ghpvc/?username=chaitanya7x&label=Profile%20views&color=green&style=flat" alt="SahilM77" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanya7x&theme=matrix" alt="chaitanya7x" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanya7x&theme=matrix" alt="SahilM77" />
 </p>
 
 <h3 align="left" style="font-family: 'Courier New', Courier, monospace; color: #00ff00;">Connect with me:</h3>
@@ -129,7 +129,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya7x&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="chaitanya7x" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilM77&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="chaitanya7x" />
 </p>
 
 <p>&nbsp;
