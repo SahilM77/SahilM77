@@ -129,9 +129,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilM77&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="chaitanya7x" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilM77&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="SahilM77" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya7x&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="chaitanya7x" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilM77&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="SahilM77" />
 </p>
